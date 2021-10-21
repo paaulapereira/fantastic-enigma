@@ -1,4 +1,4 @@
-# BIENVENIDO A LA MINI LIBRERIA DE MUSICAS EN REACT
+# Benvenido a la Mini Libreria de Musicas en React
 
 Aqui encontrarás una playlist de canciones para relajar
 Para visualizar la página, tambien puedes entrar directamente aqui https://paaulapereira.github.io/react-music-library/
