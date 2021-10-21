@@ -29,6 +29,13 @@
     cursor: pointer;
   }
 }
+
+.play,
+.skip-back,
+.skip-forward {
+  color: #363636;
+}
+
 //ESTILIZANDO EL INPUT
 //quitamos los estilos por defecto
 input[type="range"]:focus {

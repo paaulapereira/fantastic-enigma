@@ -1,14 +1,15 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faMusic } from "@fortawesome/free-solid-svg-icons";
+import logo from "../img/logo.png";
 
 const Nav = ({ setLibraryStatus, libraryStatus }) => {
   return (
     <nav>
-      <h1>Music App</h1>
+      <img src={logo} alt="logo" srcset="" />
+
       <button onClick={() => setLibraryStatus(!libraryStatus)}>
-        Library
-        <FontAwesomeIcon icon={faMusic} />
+        More Songs
       </button>
     </nav>
   );
