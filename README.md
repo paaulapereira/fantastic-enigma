@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# Benvenido a la Mini Libreria de Musicas en React
+
+Aqui encontrarás una playlist de canciones para relajar
+Para visualizar la página, tambien puedes entrar directamente aqui https://paaulapereira.github.io/react-music-library/
+
+## Getting Started with Mini Music Library
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## DON'T FORGET
+
+You need to run npm install for it to work
 
 ## Available Scripts
 
@@ -45,25 +54,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
 
